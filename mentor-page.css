@@ -1,0 +1,253 @@
+html,body {
+    background-color: #fdfdfd;
+    font-family: 'DM Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#filter-tags {
+    color: black;
+}
+
+#filter-tags .tag {
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px 10px;
+    
+    font-size: 14px; 
+
+    margin: 4px 3px;
+    border-radius: 20px;
+    color: #222;
+    background-color: white;
+    border: 1px solid #444;
+
+    transition: all .1s ease-in-out;
+}
+
+
+
+
+
+
+
+
+#mentors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.mentor-card {
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,.10);
+    margin: 16px;
+    padding: 0px;
+
+    color: black;
+    text-decoration: none;
+
+    height: 300px;
+    width: 580px;
+
+    border-radius: 7px;
+
+    display: flex;
+
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+
+}
+
+.mentor-card:hover{
+    box-shadow: 0 2px 8px rgba(0,0,0,.15);
+    -moz-transform: translate(0px, -5px);
+    -ms-transform: translate(0px, -5px);
+    -o-transform: translate(0px, -5px);
+    -webkit-transform: translate(0px, -5px);
+    -webkit-backface-visibility: hidden;
+    -webkit-transform: translateZ(0) scale(1.0, 1.0);
+    transform: translate(0px, -5px);
+
+}
+
+.mentor-card img{
+    object-fit: cover;
+    height:100%;
+    min-width: 33%;
+    max-width: 33%;
+
+    border-radius: 7px 0 0 7px;
+}
+
+.mentor-card .content {
+    width: 67%;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    box-sizing: border-box;
+}
+
+.mentor-card .name {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.mentor-card .school {
+    font-weight: 400;
+    font-size: 17px;
+    color: #999;
+
+    margin-top: -4px;
+    margin-bottom: 16px;
+}
+
+.mentor-card .bio {
+    font-weight: 400;
+    font-size: 14px;
+
+    margin-bottom: 16px;
+}
+.mentor-card .tags {
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.mentor-card .tags .tag{
+    padding: 4px 8px;
+    margin: 2.5px;
+
+    border-radius: 20px;
+
+    font-size: 11px;
+    color:white;
+}
+
+.mentor-card .tags #Product-Management {
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+.mentor-card .tags #Software-Engineering {
+    background-color: rgba(3, 174, 0, .6);
+}
+
+.mentor-card .tags #Entrepreneurship {
+    background-color: rgba(0, 102, 255, .6);
+}
+
+.mentor-card .tags #UI---UX-Design {
+    background-color: rgba(109, 0, 148, .6);
+}
+
+.mentor-card .tags #VC---Investing {
+    background-color: rgba(255, 122, 0, .7);
+}
+
+.mentor-card .tags #Data-Analytics---Science {
+    background-color: rgba(62, 182, 182, .7);
+}
+
+.mentor-card .tags #Tech-Consulting {
+    background-color: rgba(159,159,159,1);
+}
+.mentor-card .tags #Non-Technical {
+    background-color: rgba(204, 120, 38, 1);
+}
+
+
+
+
+
+
+#home {
+    color: #ff9900;
+    font-size: 20px;
+    font-weight: 700;
+
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+    text-decoration: none;
+}
+
+#home:hover{
+    letter-spacing: 2px;
+}
+
+#header {
+    width: 100%;
+    border-top: 10px solid #ff9900;
+
+    background-color: white;
+
+    padding: 24px 24px 24px 48px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+
+    box-shadow: 0px 2px 1px rgba(0,0,0,.05);
+}
+
+#header #title {
+    font-size: 65px;
+    color: #ff9900;
+    font-weight: 700;
+}
+
+#header #subtitle {
+    display: none;
+    margin-top: 4px;
+    line-height: 100%;
+    width: 60%;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+#header #instruction {
+    color: #333;
+
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+
+    line-height: 18px;
+
+    margin-bottom: 8px;
+    margin-left: 4px;
+
+}
+
+#filter-stuff { 
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    padding: 20px 10px 20px 20px;
+    width: 60%;
+}
+
+#header #signup {
+    color: #444;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    margin-left: 4px;
+
+
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#header #signup #link {
+    color: #222;
+
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#header #signup #link:hover {
+    border-bottom: solid 1.5px #222;
+}

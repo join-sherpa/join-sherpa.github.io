@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link href="mentor-page.css" rel="stylesheet" type="text/css"/> 
+
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
+    <script src="jquery-3.4.1.min.js"></script> 
+    <script src="mentor-page.js"></script> 
+    <script src="unveiled.js"></script> 
+
+
+    <script language="Javascript">
+        window.onload=function(){
+        var mobile = (/iphone|ipad|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
+        if (mobile) {
+            alert("Hey there! Sherpa is definitely not optimized for mobile yet, so navigate at your own risk :)");              
+        } else {
+    
+        }
+      }
+      </script>
+
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png" />
+    <title>Sherpa - Tech Mentors</title>
+
+</head>
+
+<body>
+    <div id="header">
+        <a href="/" id="home">sherpa</a>
+        <div id="title">Want some guidance?</div>
+        <div id="subtitle">Sherpa connects you directly with the people who can help you most</div>
+
+        <div id="signup">Or <a id="link" href="https://sherpamentors.typeform.com/to/Ag2OlS">sign up to mentor</a> and give back to students in tech!</div>
+
+        <div id="filter-stuff">
+            <div id="instruction">Filter with the tags & click on a profile to get in touch! </br>Use CMD+F to search bios and names</div>
+
+            <div id="filter-tags">
+                <div class="tag" id="Entrepreneurship" onClick="filter('Entrepreneurship');">Entrepreneurship</div>
+                <div class="tag" id="Product-Management" onClick="filter('Product Management');">Product Management</div>
+                <div class="tag" id="Software-Engineering" onClick="filter('Software Engineering');">Software Engineering</div>
+                <div class="tag" id="Non-Technical" onClick="filter('Non-Technical');">Non-Technical</div>
+                <div class="tag" id="UI---UX-Design" onClick="filter('UI / UX Design');">UI / UX Design</div>
+                <div class="tag" id="Tech-Consulting" onClick="filter('Tech Consulting');">Tech Consulting</div>
+                <div class="tag" id="VC---Investing" onClick="filter('VC / Investing');">VC / Investing</div>
+                <div class="tag" id="Data-Analytics---Science" onClick="filter('Data Analytics / Science');">Data Analytics / Science</div>
+    
+    
+            </div>
+        </div>
+
+    </div>
+
+    
+
+
+    <div id="mentors">
+        
+    </div>
+</body>
+</html>

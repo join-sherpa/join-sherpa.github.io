@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Ravi Kemburu",
+    "school": "University of Maryland, College Park",
+    "year": 2020,
+    "tags": "Software Engineering, VC / Investing",
+    "bio": "Quant Software Engineer @ Radix Trading. Partner @ Contrary Capital. Happy to chat about tech, investing, and quant finance.",
+    "photo": "https://api.typeform.com/responses/files/c8ac60d504e6f2b4c02642fd78ee5a50dee2f435ebdd990985610123290c7d13/ravikemburu.jpg",
+    "token": "tiwi5lazqnewa8hbfltiwi5l22jzgw9m"
+  },
+  {
+    "name": "Jenny Ye",
+    "school": "University of Illinois",
+    "year": 2019,
+    "tags": "Product Management, UI / UX Design, Non-Technical, Software Engineering",
+    "bio": "Jenny is currently a PM at Microsoft working in Azure IoT. In the past, she's interned at Salesforce, Hulu, and Microsoft as SWE and PM. </br></br>Outside of work, she spends her time fostering dogs, finding new boba places, and petting every dog she sees.",
+    "photo": "https://api.typeform.com/responses/files/73ea1a4435b64aefeed4d7ceed19ad00a3e2d6188fb91803c0cf9e949ab092ee/corg.jpg",
+    "token": "ecjq5tqfyhu7ngxw4uecjqskcsugy15v"
+  },
+  {
+    "name": "Nabeil Kizilbash",
+    "school": "UC Berkeley",
+    "year": 2020,
+    "tags": "Non-Technical, Data Analytics / Science, Tech Consulting, Product Management",
+    "bio": "Recent grad currently working at FB as a Data Scientist. I can help with career advice, job/internship hunting strategies, interview prep, and more!</br></br>Interests include volunteering, basketball, and lifting.</br></br>tinyurl.com/datasciguide <- my guide",
+    "photo": "https://api.typeform.com/responses/files/00c07ed2f6714e5e10ccf6beccdb3eca0d378d9e366bec0e0da0693842562355/IMG_2705.JPG",
+    "token": "8wl1zbouczt5mc08wl187l9tggzdappc"
+  },
+  {
+    "name": "Emilee Cocuzzo",
+    "school": "Clark University",
+    "year": 2018,
+    "tags": "Data Analytics / Science, Tech Consulting, UI / UX Design, Entrepreneurship",
+    "bio": "I am a Management Consultant at Booz Allen Hamilton, where I leverage data analytics and visualizations, strategy, and change management to drive impactful change for the government and empower our citizens.",
+    "photo": "https://api.typeform.com/responses/files/76cde97b6ceb9d963c370d9f0d1225dfbd2d0dd01364b33f5f630338ae5d6754/emilee_cocuzzo.jpg",
+    "token": "2r44q47i6ed2r44e5tep16b3eywakae5"
+  },
+  {
+    "name": "Anir Kaushik",
+    "school": "University of Southern California",
+    "year": 2020,
+    "tags": "Product Management, Software Engineering, VC / Investing",
+    "bio": "Incoming PM @ Microsoft | Former SWE @ Microsoft, EY, Credit Suisse</br></br>Recruiting is a game, and I'd be happy to help you hack it. My interests lie in SWE/PM/Investing, and you can find out more here: https://www.linkedin.com/in/anirkaushik/",
+    "photo": "https://api.typeform.com/responses/files/2c7e5c4c909185eed472b3d4966dd985fab3183ff6cdfe9c6fc4fb36ee4ca9c1/IMG_1064_2.jpg",
+    "token": "pbrhxtrblexhurqgpbrezbqr3nuo0397"
+  },
+  {
+    "name": "Stephanie Nuesi",
+    "school": "Baruch College of the City University of New York",
+    "year": 2021,
+    "tags": "Entrepreneurship, VC / Investing, Non-Technical",
+    "bio": "I am a self-motivated analyst. My experiences have branched out from financial advisory to global tax and external audit involving data analytics and visualization. I also run my own career coaching firm called “Max Up” which mission is “to maximize the potential of the future business leaders”.",
+    "photo": "https://api.typeform.com/responses/files/0a874b512a98f8cd260f851f687837194f7106d1f63d98561e8934ff97e6340e/NuesiPeralta.Carmen.photo.jpg",
+    "token": "3917noggwign026pjn5re3917nogtj2a"
+  },
+  {
+    "name": "Lifan Zeng",
+    "school": "Michigan State University",
+    "year": 2020,
+    "tags": "Software Engineering, Data Analytics / Science",
+    "bio": "I'm a 4th year Math/C.S. major who interned at Google (SWE) and Microsoft (Data Science). I like dancing, volleyball, and cookies!",
+    "photo": "https://api.typeform.com/responses/files/4649f2bfac9a3a9722f44a1d2afdaef71481edacb4169f626b4e71b0d3ca0460/Picture.png",
+    "token": "p1xa4v3vk1j8okzh01h1eip1xa4vhrpc"
+  },
+  {
+    "name": "Ravi Dashputre",
+    "school": "UC Berkeley",
+    "year": 2021,
+    "tags": "VC / Investing, Data Analytics / Science, Entrepreneurship",
+    "bio": "Currently a VC Intern at Alumni Ventures Group, a $300M AUM venture capital fund. I work with student entrepreneurs all the time and love hearing about what people are working on. If you want help learning about fundraising or evaluating your startup ideas, feel free to reach out!",
+    "photo": "https://api.typeform.com/responses/files/30dc2c4df011a803423110f8e6719f2ed8390bd0c292b72ff8e2b8d05ea55578/IMG_20200406_154440.jpg",
+    "token": "eqgbfhcobg07db789s0creqgbfuvf4w9"
+  },
+  {
+    "name": "Kevin Mahoney",
+    "school": "University of California, Berkeley",
+    "year": 2019,
+    "tags": "Non-Technical, Entrepreneurship, Software Engineering",
+    "bio": "Working as an associate systems engineer at Northrop Grumman and currently applying to deferred MBA programs and systems engineering master's degrees. Will move to a flight test integration and test engineering role with an optionally-piloted aircraft after the shelter-in-place.",
+    "photo": "https://api.typeform.com/responses/files/d7b57478775725398c5ba148aa6a1bd52917e1d4c4a4b365420fa3acca04cfd0/mmexport1586061584751.jpg",
+    "token": "75eht0y8detcsenkp9az75eht0yi7no7"
+  },
+  {
+    "name": "Vidit Goyal",
+    "school": "UC San Diego",
+    "year": 2019,
+    "tags": "Product Management, Entrepreneurship",
+    "bio": "I like to play soccer, mix music and build healthcare/biotech related products!",
+    "photo": "https://api.typeform.com/responses/files/50ec39c8d2bfe72a0ee5fd6eec026642d949be9933badc45a411e0cce66c7a8c/2ABD6C90_323D_4BEC_ADC3_A84E5F306EE0.jpeg",
+    "token": "6w9yyzvg9xq26w9wqm8qdmas4vk8ey1w"
+  },
+  {
+    "name": "Celeste Goodwin",
+    "school": "University of Southern California",
+    "year": 2020,
+    "tags": "Product Management",
+    "bio": "I studied Mechanical Engineering at USC and interned at Microsoft after my junior year as a PM in New Product Introduction for Devices. I am going back there to be a Hardware Development PM in August! I also love snowboarding, community outreach, and music festivals.",
+    "photo": "https://api.typeform.com/responses/files/01e15d798dbfd514d64a65bfd9383f37624853e8f18df71b801274d9713e6af5/vsa_headshot.jpg",
+    "token": "t2viqdgscnjag668ei6t2viq7l5dp6l5"
+  },
+  {
+    "name": "Theodore (Ted) Lewitt",
+    "school": "University of Southern California",
+    "year": 2021,
+    "tags": "Data Analytics / Science, Non-Technical",
+    "bio": "Deep Learning Intern at NASA, Applied Math at USC, aspiring autonomous vehicle research engineer, suffering from MLB withdrawals",
+    "photo": "https://api.typeform.com/responses/files/315e0ea3b45b0ca17746aa79da0314c127f2d093795a72536e4eb06ab95ccdf3/nasa_ted.JPG",
+    "token": "x5pkr8sxx4hd5gjra79jax5pkrgxigw2"
+  },
+  {
+    "name": "Div Dasani",
+    "school": "Northwestern University",
+    "year": 2020,
+    "tags": "Data Analytics / Science, Software Engineering",
+    "bio": "I am a machine learning engineer at Scribd specializing in recommendations and causal inference. I can help with technical and non-technical interview prep, and career/academic advice! In my free time I enjoy practicing archery and white-water river rafting.",
+    "photo": "https://api.typeform.com/responses/files/af1ecc86c281e90dcee5ee6385befaa480d58e6f4bc98f4ffa22a4d2f8ff1b09/Headshot__Div_Dasani.jpg",
+    "token": "19j6iqw3sloof94q19j6iqnxtuhit65a"
+  },
+  {
+    "name": "Siyang Sun",
+    "school": "UCLA",
+    "year": 2018,
+    "tags": "Data Analytics / Science, Software Engineering, Product Management",
+    "bio": "Hi! Recent grad from UCLA/UCLA Anderson. Love data science & startups. In my spare time I like to paint and make music!",
+    "photo": "https://api.typeform.com/responses/files/08b8b57d6407580fc62928b66620c390e1ef90caaec5dfdf112f4b3a42873a22/2019_12_13_Retina.ai_Headshots_0069.JPG",
+    "token": "eah3pqjwucg2kfgybzoeah3pqjkso4wl"
+  },
+  {
+    "name": "Neel Raman",
+    "school": "UC Berkeley",
+    "year": 2019,
+    "tags": "Data Analytics / Science, Non-Technical",
+    "bio": "Hey! My name is Neel, and I am currently an Analyst at Capital One. Before that, I graduated from Berkeley with a major in ChemE, a minor in EECS, and a concentration in Business and Management. I'd be happy to help with resume critiques, behavioral interview prep, or career/school advice.",
+    "photo": "https://api.typeform.com/responses/files/596696c5d77dd88fb7069d154bd7cd7326bcb48b4bda8e28cfd8e5fca823f9f9/pic2.jpg",
+    "token": "2iemq6ksj6iifkiuz21d2iemq6k2xpl0"
+  },
+  {
+    "name": "Amanda Horne",
+    "school": "Massachusetts Institute of Technology",
+    "year": 2020,
+    "tags": "Product Management, Non-Technical, Software Engineering",
+    "bio": "Current Grad student at MIT; 6 former internships; happy to mentor students and help them find internships and fulltime jobs!",
+    "photo": "https://api.typeform.com/responses/files/e2bce5ad03db07777110a5f64615679034cea428c5ac61626b8a5f07c95e52b6/7C630045_E04C_4322_8F19_E7D99E3CC2AA.jpeg",
+    "token": "g2ez7mlj7zm10g2ez79l8dh3lh8jik1b"
+  },
+  {
+    "name": "Eva Su",
+    "school": "UC Berkeley",
+    "year": 2020,
+    "tags": "Software Engineering, Data Analytics / Science",
+    "bio": "Currently a senior at UC Berkeley studying CS and data science. I've interned at PayPal and Wish, and will be working as a full-time SWE starting this fall!",
+    "photo": "https://api.typeform.com/responses/files/3a3d7a8ea15d753473b02ab4a78d782da47e7806a6f536aabdae545d966c28b6/profile_pic_1.jpg",
+    "token": "v6z5pgh4se96izjwu1ov6z5pghofywv1"
+  },
+  {
+    "name": "Benjamin Stanfield",
+    "school": "University of Southern California",
+    "year": 2019,
+    "tags": "Non-Technical, UI / UX Design, Entrepreneurship",
+    "bio": "Co-founder at Project Wren (S19)",
+    "photo": "https://api.typeform.com/responses/files/23fde7e7c289cf142edbfb24eedf480f54e1d625ca267149966db67f9cd88c69/ben_profile.jpg",
+    "token": "jkbcfotgx5fi47250jkbcfo375qxtca4"
+  },
+  {
+    "name": "Zarek Peris",
+    "school": "University of Maryland - College Park",
+    "year": 2020,
+    "tags": "Data Analytics / Science, Software Engineering, Non-Technical",
+    "bio": "Hey guys! I’m a recent grad from UMD college park who dabbles in sketch comedy and hip hop review. I’ve worked for Lockheed Martin as a consultant, Silicon Valley startup Light as an engineering intern and will be starting with Google as a Software Engineer in October! Let me know if I can help :)",
+    "photo": "https://api.typeform.com/responses/files/ee82b50deb7a649b3febb2e30355abe68cac9d87d41686300263cd0392366a4f/F5BB80CE_3BAB_4950_902D_31005A73ABA9.jpeg",
+    "token": "u21lqmbs11qapi0omco4hu21lqmqv250"
+  },
+  {
+    "name": "Rishi Tripathy",
+    "school": "Duke",
+    "year": 2020,
+    "tags": "Software Engineering, Product Management, Entrepreneurship",
+    "bio": "From NJ, PM/SWE experience, experience with giving advice/helping friends find direction in navigating career decisions.",
+    "photo": "https://api.typeform.com/responses/files/c9490252e3377a7efc0878d5a3f0d97d920e08e9f1363500e7b0f5b150124700/IMG_0977.JPG",
+    "token": "958nmnsge1iqj85x3h958nmnls6wihoc"
+  },
+  {
+    "name": "Lina Salameh",
+    "school": "Boston University",
+    "year": 2019,
+    "tags": "Non-Technical",
+    "bio": "Hi! I work for a major business to business software company in Cambridge, Ma in marketing. Let me know if you have questions about job search, resumes, life after college, or anything Boston! I love  hiking, working out, baking and traveling",
+    "photo": "https://api.typeform.com/responses/files/2135b8e0db00ff5bf76e4d67544e8d3fbcc382a89286de7dcddbdc674e4ed560/5E1BB63C_22AC_4BA5_A76C_2DC3A992C484.jpeg",
+    "token": "6f3dy7kejlmg3znnpjon6f3dy7ez0238"
+  },
+  {
+    "name": "Isabel Bolger",
+    "school": "Northeastern University",
+    "year": 2021,
+    "tags": "Software Engineering",
+    "bio": "Hi, I'm Isabel, and I'm a CS major at NEU. I will doing my 4th internship at Microsoft this summer, and have experience with Software Engineering and some Program Management. Ask me about how to get an internship, college classes, or anything else. Outside of school I enjoy music, tennis, & baking.",
+    "photo": "https://api.typeform.com/responses/files/2a07b77460d501217dbcf8f9e5357ae7a618de1b719d1d7b7e16ac9f92e95140/IMG_7603.JPG",
+    "token": "5krnl52efc79wh8y55krn98kss1eqpxw"
+  },
+  {
+    "name": "Usman Ali",
+    "school": "Minerva Schools at KGI",
+    "year": 2019,
+    "tags": "Tech Consulting, Entrepreneurship, VC / Investing",
+    "bio": "Usman is a Customer Success Manager at Salesforce where he manages a portfolio of high priority customers in Mid-Market segment in the US West Region. Usman has traveled to 40+ countries & lived in 8 countries. Feel free to reach out to talk about a career in tech, consulting, & global traveling.",
+    "photo": "https://api.typeform.com/responses/files/5ee0814680836bd85bbbe0c8ecc7f8cba586bf3d72688333d9b7e1dc5d19f092/Passport_picture.png",
+    "token": "0dh9ieca4zhtnwltwge0dh9irsm02shx"
+  },
+  {
+    "name": "Mihai Bibireata",
+    "school": "University of California Los Angeles",
+    "year": 2019,
+    "tags": "Software Engineering",
+    "bio": "Research Engineer at Eagleview specializing in image processing and photogrammetric applications of computer vision (in C++). I studied physics in undergrad and do not have a traditional CS background.",
+    "photo": "https://api.typeform.com/responses/files/962174c69f84c2eea8a718d21a3b45fb96d977a24eee2ed3c84f0d6cbf5cf30c/B2E49B41_D0AE_4EED_805E_A4F11342B3FF.jpeg",
+    "token": "62zuqcku683vrrn6j762zuqfx7x60tu3"
+  },
+  {
+    "name": "Andrew Singh",
+    "school": "City College of New York",
+    "year": 2018,
+    "tags": "Data Analytics / Science, Non-Technical",
+    "bio": "Andrew Singh is the Program Analyst and Data Administrator on the Policy and Impact team at HERE to HERE. Andrew supports the Policy and Impact team with creating data visualizations to promote the goals of every team under HERE to HERE. He enjoys talking about sports and traveling.",
+    "photo": "https://api.typeform.com/responses/files/dd4f357f4eae234cd6fc76b38327f22d05f3143e98dfbf3ac64aa7f27ec50db0/Headshot_1.jpg",
+    "token": "c3j0buucj20m88sdc0gtc3j0bu8jb3k0"
+  },
+  {
+    "name": "Rikin Mehta",
+    "school": "University of Illinois Urbana-Champaign",
+    "year": 2018,
+    "tags": "Product Management, Non-Technical, Tech Consulting",
+    "bio": "Associate Product Manager @ Datacubes. Can help with preparing for product management or consulting roles. Happy to talk about extra-curricular activities as well (love to dance and play squash).",
+    "photo": "https://api.typeform.com/responses/files/b23fe743d4a37f98bccb57d41131258c8d81294ca9803aad390911530b97bb0f/Professional_Headshot.jpg",
+    "token": "y0ufoiuu6sm19rcy0uknidnzekxsbykk"
+  },
+  {
+    "name": "Khansa Alhaidi",
+    "school": "University of Michigan - Dearborn",
+    "year": 2020,
+    "tags": "Software Engineering, Data Analytics / Science",
+    "bio": "Hi all, I am a first-generation women in technology! Would love to chat with anyone to provide any advice of my struggles in undergrad and tips for success. I am currently a co-op at DTE working with data analysts.",
+    "photo": "https://api.typeform.com/responses/files/0e7a03e2a15394bbd2c4eb2621dea347553fabc4079b58c4dc5e038c074b1ac6/_Professional_Photo.JPG",
+    "token": "gmuf93yf001oj5xaiz0fgmuf93y1lq90"
+  },
+  {
+    "name": "Keyan Kazemian",
+    "school": "University of California, Irvine",
+    "year": 2021,
+    "tags": "Software Engineering",
+    "bio": "Currently a product developer building www.macincloud.com. Formerly a software engineering intern @ Blackberry Cylance & Movandi. </br></br>Interested in the intersection of technology & psychology. </br></br>Would love to help any students interested in software engineering however I can.",
+    "photo": "https://api.typeform.com/responses/files/f2613cb6bdf82c2f96dc8d475dc360aa6c7d267e926da8ef45d515933fb0f7ce/8948FA7D_5F08_4ECF_8A5F_DEE92E18C17E.jpg",
+    "token": "oxidg84inezrcm2g9oxidg6mv89lfq9u"
+  },
+  {
+    "name": "Pratima Manga",
+    "school": "USC",
+    "year": 2020,
+    "tags": "UI / UX Design, Entrepreneurship",
+    "bio": "A designerd trying to find her way in the world! I'm a largely self-taught designer who's interested in using this discipline as a means for building communities. I'm an incoming Product Designer at Facebook SEA and my hobbies include jamming to live music and scoping out the best ice cream stores.",
+    "photo": "https://api.typeform.com/responses/files/4e366476293a49ca736bd37a3f37ab3c95807e673b57031d4f5f71ab3bee39ee/Pratima_Manga__Headshot.png",
+    "token": "xr2f8lnwegzt3b57kp4vxr2f83bgdlqc"
+  },
+  {
+    "name": "Abhik Chakraborty",
+    "school": "MIT",
+    "year": 2021,
+    "tags": "Software Engineering, Data Analytics / Science, Tech Consulting",
+    "bio": "A fun loving researcher cum developer. I am the founder of 3 startup companies though I am currently pursuing BS in the field of CS at MIT",
+    "photo": "https://api.typeform.com/responses/files/81f1bebd64feafa0d42a51133c4b8500c26e44025f412a4a97c50db00b29aa24/IMG_20200211_WA0224.jpg",
+    "token": "cfev8zhhtuqpv66bpmcfev8zlq1nlc0c"
+  },
+  {
+    "name": "Niral Patel",
+    "school": "University of California San Diego",
+    "year": 2019,
+    "tags": "Software Engineering, UI / UX Design",
+    "bio": "Hello! I'm a recent grad working for Audible on Alexa as an SDE. My interests include design, photography, baking/food, and singing. I'm happy to talk to you about my job, college, the job hunt, or anything else you may be interested in!",
+    "photo": "https://api.typeform.com/responses/files/0e8a7962c0a2cb5fbfa8e50d709a865dc00afd211268d79c337402649bfe0082/IMG_20200405_130136.jpg",
+    "token": "m80kac4qiit2e4g981v20m80kacji4vg"
+  },
+  {
+    "name": "Moises Bentolila",
+    "school": "Florida International University",
+    "year": 2020,
+    "tags": "Software Engineering, Product Management, Tech Consulting",
+    "bio": "Hey! I am a Computer Science Student, working on Tech Consulting at EY. I have experience as a Software Engineer and as a Product Manager.",
+    "photo": "https://api.typeform.com/responses/files/950245d9f22725dd57b3896b40709b49ba003fa560a3897a89e8d865b6a7e6aa/6F4E04BC_7DCE_4817_BE3C_DCF09AC4C5E4.jpeg",
+    "token": "o0j9lt0upywvtbq03o0j9lf5noptzgsp"
+  },
+  {
+    "name": "Sean Thielen-Esparza",
+    "school": "UCLA",
+    "year": 2019,
+    "tags": "Product Management",
+    "bio": "Product Ops & Product Management at Hyperscience (startup, enterprise software) in NYC. Let's chat about breaking into PM from a non-technical/non-traditional background, interview prep, and the NYC tech scene.",
+    "photo": "https://api.typeform.com/responses/files/c6990867166b8848f7fcd0660f426abc56bd62f7130b74c4087d07c8d20637b1/me.jpeg",
+    "token": "v986mtnx70ac3pwbzqlgv986mtn68inf"
+  },
+  {
+    "name": "Alisa Palma",
+    "school": "UC Davis",
+    "year": 2016,
+    "tags": "VC / Investing, Non-Technical",
+    "bio": "I have experience within different avenues of finance. I’ve worked on the investments and corporate side, public and private sectors, as well as Fortune 50 and startups. My main focus is on finance and analytics usually geared towards the tech sector.",
+    "photo": "https://api.typeform.com/responses/files/ab705007613029ce22f04305882af58861bb2347d48675862d162f8e9c229772/C22C6215_2B91_4F92_8C03_F7AB7C8E1589.jpeg",
+    "token": "jzwdk8ltxhkuzc3o2o7jzwdk8lkaijlh"
+  },
+  {
+    "name": "Isabelle Tobolski",
+    "school": "University of Southern California",
+    "year": 2019,
+    "tags": "Data Analytics / Science, Non-Technical",
+    "bio": "Current: Business Intelligence Engineer @ SpaceX</br>Future: Deployment Strategist @ Palantir</br>Computer Science & Business Admin. - USC 2019</br>Hobbies: Skydiving, scuba, Krav Maga, skiing, foreign languages (5+)</br>Let's discuss: data, engineering, operations, recruiting/deciding, the world's biggest problems",
+    "photo": "https://api.typeform.com/responses/files/01dcff4b30d111eff13fe1a0712f628b0ac552cd8788e47fddfb4d4b76af8c1f/Isabelle.png.png",
+    "token": "cg1al1aw3fdxt8jdzccg1al1h3hwbtu5"
+  },
+  {
+    "name": "Simon Chamorro",
+    "school": "University of Sherbrooke",
+    "year": 2021,
+    "tags": "Software Engineering, VC / Investing",
+    "bio": "My name is Simon, I am a Robotics Engineering Junior. I am interested in Robotics and RL, with experience from research at Mila and in Huawei's self-driving team. I am also part of the Investment Team at Front Row Ventures, Canada's first student-led VC fund. Feel free to reach out!",
+    "photo": "https://api.typeform.com/responses/files/f679640df331fcab97487ba5bd3eb794f39d18a36a5e66b72564b112c71f482d/test.jpg",
+    "token": "f9ritkbukp3kfx665jxucf9riuvxxk2n"
+  },
+  {
+    "name": "Jordan Mess",
+    "school": "University of Maryland",
+    "year": 2020,
+    "tags": "Product Management, Software Engineering",
+    "bio": "Hi, I'm a senior at UMD studying CS and business! After grad., I'll be joining as an APM @ Google. I transitioned from the traditional SWE role to PM so let me know if you'd like to chat about this/PM in general :)",
+    "photo": "https://api.typeform.com/responses/files/d419751f5535095c3fea5257197a0d62c1a06ed130dbac85069cdaf027265dae/The_SnapBar_1445.JPG",
+    "token": "fkn04jbijkp7rwfkn02nyd6z31gsu5j7"
+  },
+  {
+    "name": "Wilhelm Willie",
+    "school": "University of Southern California",
+    "year": 2020,
+    "tags": "UI / UX Design, Product Management, Software Engineering",
+    "bio": "I'm Willie - a USC senior studying CS & biz. I'm passionate about building great digital products. I've worked at McKinsey, Salesforce, and Coinbase (where I'll work FT as a SWE!) I work across the stack, and have interests in crypto/blockchain, UI/UX, product dev, growth strategies, and more.",
+    "photo": "https://api.typeform.com/responses/files/eb90fb2f12ebc8ab91940a4a88ab4ad9ccc97ee77f9713fa155a0a15058f9a79/51152182_10212261932534107_4095040004345036800_o_copy.jpg",
+    "token": "g3mlmp8pbtkdfvtbea3jg3ml1a50lmco"
+  },
+  {
+    "name": "Jake Chasan",
+    "school": "Duke University",
+    "year": 2020,
+    "tags": "VC / Investing",
+    "bio": "Investment Banker at Goldman Sachs in New York</br></br>Graduated Phi Beta Kappa from Duke University with distinction in both Economics and Computer Science",
+    "photo": "https://api.typeform.com/responses/files/f6961cfa6e8e9d2e251d7f078563d2e054782327de78162000711952e82e9541/C97E1670_B030_42DB_A5E1_8430D892DD1C.jpeg",
+    "token": "exx6f36hxhtfd6vtp5j8rexx6f36hn54"
+  },
+  {
+    "name": "Clare McLeod",
+    "school": "Cornell University (ILR School)",
+    "year": 2019,
+    "tags": "VC / Investing, Entrepreneurship, Non-Technical",
+    "bio": "Clare is a biz dev analyst at a growth equity firm in DC that solely invests in B2B software. Before that, she was working on her own venture in the fundraising ed-tech space, teaching yoga, and traveling the world (Croatia+Sweden). She's happy to connect about anything and everything!",
+    "photo": "https://api.typeform.com/responses/files/ee5409f321f3dc4ca8d9a56b00541b88eaaa51e242fb206754ad61be6da714eb/200115_ClareMcLeod_BW_Crop.jpg",
+    "token": "fxzyv4oxyowaup9apien8xpfxzy2iqey"
+  },
+  {
+    "name": "Emily Ng",
+    "school": "Tufts University",
+    "year": 2019,
+    "tags": "Non-Technical, UI / UX Design",
+    "bio": "I'm a UX Researcher at Squarespace in NYC. Happy to chat about going from a social sciences/humanities major -> tech, and all things UX research (day-to-day work, internship opportunities, applications, etc)",
+    "photo": "https://api.typeform.com/responses/files/da4400a644a383171e8d7602bf211475d5a6b93b0f547f851b947875456e301c/bec4aa44_83c6_46e4_abb8_1d8411e8da41_2.JPG",
+    "token": "22scmk9qs1pndv22scvrma192bf2nivb"
+  },
+  {
+    "name": "Preet Shah",
+    "school": "Northeastern University (Grad school)",
+    "year": 2019,
+    "tags": "Software Engineering",
+    "bio": "Can guide with resume & interview preparations for SWE roles. </br>Previous internships at AWS, Google, Amazon & Morgan Stanley. </br>MSCS at Northeastern University, Boston.",
+    "photo": "https://api.typeform.com/responses/files/3b50c61dd3e7739f71ef0f679f246a5d267443944f26fedf380271717f429eaf/Pic.jpg",
+    "token": "pjnri8pmcl9zys8pjnri4ucc9t1sr3oj"
+  },
+  {
+    "name": "Reilly Williams",
+    "school": "University of Cincinnati",
+    "year": 2021,
+    "tags": "Product Management, Entrepreneurship, Non-Technical",
+    "bio": "Hello, I would love to talk with you about Product Management, Supply Chain, Startups, College, and your resume!",
+    "photo": "https://api.typeform.com/responses/files/a46da12cd417be1cf3a00d9f130150a8fd8c5c29d9fd6d5334922eb368c92b44/Reilly_s_MS_MUSK_photo_2_01.jpg",
+    "token": "643tisgl8geyv6x8nv3643tmkw0cqzhb"
+  },
+  {
+    "name": "Nayef Ahmed",
+    "school": "University of Waterloo",
+    "year": 2021,
+    "tags": "Software Engineering",
+    "bio": "Hey, I'm Nayef! I'm currently a software engineering intern at Lyft Level 5 (self-driving division). Feel free to reach out to me about any questions you have related to internships in software engineering, machine learning, or self-driving cars. You can learn more about me at http://nayefahmed.com.",
+    "photo": "https://api.typeform.com/responses/files/1f28dff364472342b609d402f2db32e33b77ac63fe755c1e3ad1b0f6be6bdd64/IMG_20200405_183851_576.jpg",
+    "token": "f6n7ei7r3ugo4j0cf6n7nddmo906ho1i"
+  }
+]
