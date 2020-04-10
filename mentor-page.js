@@ -29,7 +29,7 @@ $.getJSON("mentors.json", function(data) {
 
     $.each(mentors, function(key, value){
         html += 
-        `<a class= "mentor-card" id="${value.token}"  target="_blank" href="https://sherpamentors.typeform.com/to/mPjdCO?mentor=${value.name}">
+        `<a class= "mentor-card" id="${value.token}"  target="_blank" href="https://sherpamentors.typeform.com/to/mPjdCO?mentor=${value.name}&mentortoken=${value.token}">
             <img src="images/${value.token}.jpg"/>
 
             <div class="content">
