@@ -28,7 +28,7 @@ html, body{
     font-size: 70px;
 }
 
-#subheader {
+#header {
     margin: 0 auto;
     text-align: center;
 
@@ -41,6 +41,17 @@ html, body{
     font-size: 50px;
 }
 
+#subheader {
+    margin: 0 auto;
+    text-align: center;
+    
+    width: 40%;
+
+    color: #777;
+    font-weight: 300;
+    font-size: 20px;
+}
+
 #join-button{
     width: 20%;
     min-height: 50px;
@@ -49,7 +60,7 @@ html, body{
     align-items: center; 
     justify-content: center;
 
-    margin: 32px auto 0 auto;
+    margin: 44px auto 0 auto;
 
     background: #FF9900;
     box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.12);
@@ -86,7 +97,7 @@ html, body{
     align-items: center; 
     justify-content: center;
 
-    margin: 0 auto 60px auto;
+    margin: 0 auto 36px auto;
 
     color: #FF9900;
     background: white;
@@ -143,7 +154,7 @@ html, body{
         font-size: 16px;
     }
 
-    #subheader {
+    #header {
         width: 80%;
     }
   }
