@@ -422,5 +422,101 @@
     "tags": "Tech Consulting, Entrepreneurship, Product Management",
     "bio": "Vanderbilt CS/Economics alum with experiences in technology consulting, VC, and software engineering. Happy to chat about my background, career advice, and most anything tech related!",
     "token": "85bqu3kd16szpq5u85bqu3hcrf628psw"
+  },
+  {
+    "name": "Alex Tsun",
+    "school": "University of Washington",
+    "year": 2018,
+    "tags": "Data Analytics / Science, Software Engineering",
+    "bio": "Hi I'm Alex! I'm finishing my master's in CS at Stanford (with a focus in AI). In the past, I have worked in various data science and engineering roles at LinkedIn, Facebook, and Google. I also enjoy teaching and lecturing! Feel free to ask about anything industry or teaching related!",
+    "token": "78willo9ptpcxbe6qs178wilo7mmgapg"
+  },
+  {
+    "name": "Joseph Sieger",
+    "school": "University of Illinois at Urbana-Champaign",
+    "year": 2021,
+    "tags": "Data Analytics / Science, Entrepreneurship, Software Engineering",
+    "bio": "I am a Computer Science student interested in technology and entrepreneurship especially Data Science, Machine Learning, and Finance. I've worked as an engineer at Snap Inc. I participated in Harvard SVMP. I've built a community at my school for minorities in CS. I'm building a fintech app.",
+    "token": "j1sfz5gespa02udqd5nj1sfzzaznugm9"
+  },
+  {
+    "name": "Adam Levy",
+    "school": "University of Southern California, Marshall School of Business",
+    "year": 2019,
+    "tags": "Non-Technical, VC / Investing, Entrepreneurship",
+    "bio": "If you need guidance in fields or interests pertaining to tech, living/working abroad, VC, entrepreneurship, bitcoin/blockchain, startups, university organizations, making the most out of your time in school, community college transfers, or just want to say hi, hit me up! Always here to help :)",
+    "token": "g9kk6tkpjetjsocag9kkknhfey9i3jzq"
+  },
+  {
+    "name": "Austin Lam",
+    "school": "University of Southern California",
+    "year": 2017,
+    "tags": "Non-Technical",
+    "bio": "Strategy consultant at Boston Consulting Group in Los Angeles with case experience in Technology (Hardware / Software) & Renewable Energy. Prior to joining BCG, advised private equity houses on their M&A transactions with PwC's NYC Deals practice.",
+    "token": "frbteg0k2wygi1mqz8zfrbtig7rqtw49"
+  },
+  {
+    "name": "Sophia Richards",
+    "school": "Pomona College",
+    "year": 2020,
+    "tags": "Software Engineering, Product Management",
+    "bio": "I'm graduating as a Computer Science and Mathematics major and will be working at Google as an Associate Product Manager. I've interned for both Google and i.am+ in software engineer and product management roles. Reach out to me for career advice, interview tips/prep, or anything else tech-related!",
+    "token": "isi14f3oyjat4cdgisip5otnj222elwy"
+  },
+  {
+    "name": "Veshal Arul Prakash",
+    "school": "The University of Texas at Austin",
+    "year": 2020,
+    "tags": "Product Management, Non-Technical",
+    "bio": "I am a senior at University of Texas at Austin, majoring in Business Honors and Marketing. I will be joining Dropbox this fall as part of their New-Grad Product Manager cohort. I enjoy foreign movies, fusion foods, and cricket.",
+    "token": "q4b8h882kh6c2sh27q4b8fuhp7jled56"
+  },
+  {
+    "name": "Dishant Shah",
+    "school": "Rochester Institute of Technology",
+    "year": 2020,
+    "tags": "UI / UX Design, Non-Technical, Product Management",
+    "bio": "I’m a well-rounded product designer. I recently completed my internship at Samsung Research America  where I designed cloud security products as well as design systems. I’m striving designer whose career is made on the top of countless rejections & unflinching audacity.",
+    "token": "vcdcp96u363yqctr8vcdcc4ajzvdo89t"
+  },
+  {
+    "name": "Rachel Poonsiriwong",
+    "school": "California College of the Arts",
+    "year": 2021,
+    "tags": "UI / UX Design",
+    "bio": "Let me help you network, find a UX job, and kickstart your career! I am an interaction designer + researcher passionate about social impact! I've crafted award-winning products at Autodesk, Dell, and at the homelessness non-profit ShelterTech, where I lead Research.This summer, I'll be at Microsoft.",
+    "token": "2546ms2cg3fikxybled2546ms2h2u4cp"
+  },
+  {
+    "name": "Pooja Kandikonda",
+    "school": "University of Minnesota - Twin Cities",
+    "year": 2019,
+    "tags": "VC / Investing",
+    "bio": "I am currently an analyst for 2048 Ventures- an early stage geo-agnostic, vertical agnostic venture firm. \nDuring undergrad, I spent my time working for/with startups and as a research associate for several different neuroscience labs. I graduated with a B.S. in Neuroscience and Business Management.",
+    "token": "7d5r3tg87dgxm3vz7ugz7d5r3krgckmu"
+  },
+  {
+    "name": "Rachel Cheng",
+    "school": "York University/Sheridan College",
+    "year": 2020,
+    "tags": "UI / UX Design",
+    "bio": "Hey! I'm Rachel, a Product Designer always finding opportunities to give back, as I believe communities grow stronger by sharing. I've both interned at a variety of places in tech + agencies, and have previous mentorship/mentee experiences. Let's chat and get to know one another ☺️",
+    "token": "067zbnxll9qvpn7e0067zjh85zp487cx"
+  },
+  {
+    "name": "Sulaiman Hamouda",
+    "school": "University of Central Florida",
+    "year": 2019,
+    "tags": "Software Engineering",
+    "bio": "Hello, my name is Sulaiman and it is a pleasure to meet you!\nI am a recent CS grad from UCF.  My background includes both frontend and backend. I mostly work with the MERN stack, however, I also work on Java services. I currently work at NextEra Energy as a software engineer.",
+    "token": "io4j9gvohzcbdd12fj8z6io4j91n5azj"
+  },
+  {
+    "name": "Jeremy Yau",
+    "school": "University of Washington",
+    "year": 2019,
+    "tags": "Software Engineering",
+    "bio": "I'm a recent graduate from the University of Washington. I studied Statistics in college, but now work as a Software Engineer at Amazon. I work on an internal distributed database team that underpins many core Amazon services. I am looking forward to helping students with achieve their goals!",
+    "token": "lu8kfxpagbm1lhskr6rtlu8k556fpbuf"
   }
 ]
