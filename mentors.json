@@ -8,12 +8,36 @@
     "token": "tiwi5lazqnewa8hbfltiwi5l22jzgw9m"
   },
   {
+    "name": "Jenny Ye",
+    "school": "University of Illinois",
+    "year": 2019,
+    "tags": "Product Management, UI / UX Design, Non-Technical, Software Engineering",
+    "bio": "Jenny is currently a PM at Microsoft working in Azure IoT. In the past, she's interned at Salesforce, Hulu, and Microsoft as SWE and PM. \n\nOutside of work, she spends her time fostering dogs, finding new boba places, and petting every dog she sees.",
+    "token": "ecjq5tqfyhu7ngxw4uecjqskcsugy15v"
+  },
+  {
+    "name": "Nabeil Kizilbash",
+    "school": "UC Berkeley",
+    "year": 2020,
+    "tags": "Non-Technical, Data Analytics / Science, Tech Consulting, Product Management",
+    "bio": "Recent grad currently working at FB as a Data Scientist. I can help with career advice, job/internship hunting strategies, interview prep, and more!\n\nInterests include volunteering, basketball, and lifting.\n\ntinyurl.com/datasciguide <- my guide",
+    "token": "8wl1zbouczt5mc08wl187l9tggzdappc"
+  },
+  {
     "name": "Emilee Cocuzzo",
     "school": "Clark University",
     "year": 2018,
     "tags": "Data Analytics / Science, Tech Consulting, UI / UX Design, Entrepreneurship",
     "bio": "I am a Management Consultant at Booz Allen Hamilton, where I leverage data analytics and visualizations, strategy, and change management to drive impactful change for the government and empower our citizens.",
     "token": "2r44q47i6ed2r44e5tep16b3eywakae5"
+  },
+  {
+    "name": "Anir Kaushik",
+    "school": "University of Southern California",
+    "year": 2020,
+    "tags": "Product Management, Software Engineering, VC / Investing",
+    "bio": "Incoming PM @ Microsoft | Former SWE @ Microsoft, EY, Credit Suisse\n\nRecruiting is a game, and I'd be happy to help you hack it. My interests lie in SWE/PM/Investing, and you can find out more here: https://www.linkedin.com/in/anirkaushik/",
+    "token": "pbrhxtrblexhurqgpbrezbqr3nuo0397"
   },
   {
     "name": "Stephanie Nuesi",
@@ -96,6 +120,14 @@
     "token": "2iemq6ksj6iifkiuz21d2iemq6k2xpl0"
   },
   {
+    "name": "Amanda Horne",
+    "school": "Massachusetts Institute of Technology",
+    "year": 2020,
+    "tags": "Product Management, Non-Technical, Software Engineering",
+    "bio": "Current Grad student at MIT; 6 former internships; happy to mentor students and help them find internships and fulltime jobs!",
+    "token": "g2ez7mlj7zm10g2ez79l8dh3lh8jik1b"
+  },
+  {
     "name": "Eva Su",
     "school": "UC Berkeley",
     "year": 2020,
@@ -112,12 +144,28 @@
     "token": "u21lqmbs11qapi0omco4hu21lqmqv250"
   },
   {
+    "name": "Rishi Tripathy",
+    "school": "Duke",
+    "year": 2020,
+    "tags": "Software Engineering, Product Management, Entrepreneurship",
+    "bio": "From NJ, PM/SWE experience, experience with giving advice/helping friends find direction in navigating career decisions.",
+    "token": "958nmnsge1iqj85x3h958nmnls6wihoc"
+  },
+  {
     "name": "Lina Salameh",
     "school": "Boston University",
     "year": 2019,
     "tags": "Non-Technical",
     "bio": "Hi! I work for a major business to business software company in Cambridge, Ma in marketing. Let me know if you have questions about job search, resumes, life after college, or anything Boston! I love  hiking, working out, baking and traveling",
     "token": "6f3dy7kejlmg3znnpjon6f3dy7ez0238"
+  },
+  {
+    "name": "Isabel Bolger",
+    "school": "Northeastern University",
+    "year": 2021,
+    "tags": "Software Engineering",
+    "bio": "Hi, I'm Isabel, and I'm a CS major at NEU. I will doing my 4th internship at Microsoft this summer, and have experience with Software Engineering and some Program Management. Ask me about how to get an internship, college classes, or anything else. Outside of school I enjoy music, tennis, & baking.",
+    "token": "5krnl52efc79wh8y55krn98kss1eqpxw"
   },
   {
     "name": "Usman Ali",
@@ -200,6 +248,14 @@
     "token": "o0j9lt0upywvtbq03o0j9lf5noptzgsp"
   },
   {
+    "name": "Sean Thielen-Esparza",
+    "school": "UCLA",
+    "year": 2019,
+    "tags": "Product Management",
+    "bio": "Product Ops & Product Management at Hyperscience (startup, enterprise software) in NYC. Let's chat about breaking into PM from a non-technical/non-traditional background, interview prep, and the NYC tech scene.",
+    "token": "v986mtnx70ac3pwbzqlgv986mtn68inf"
+  },
+  {
     "name": "Alisa Palma",
     "school": "UC Davis",
     "year": 2016,
@@ -224,6 +280,22 @@
     "token": "f9ritkbukp3kfx665jxucf9riuvxxk2n"
   },
   {
+    "name": "Jordan Mess",
+    "school": "University of Maryland",
+    "year": 2020,
+    "tags": "Product Management, Software Engineering",
+    "bio": "Hi, I'm a senior at UMD studying CS and business! After grad., I'll be joining as an APM @ Google. I transitioned from the traditional SWE role to PM so let me know if you'd like to chat about this/PM in general :)",
+    "token": "fkn04jbijkp7rwfkn02nyd6z31gsu5j7"
+  },
+  {
+    "name": "Wilhelm Willie",
+    "school": "University of Southern California",
+    "year": 2020,
+    "tags": "UI / UX Design, Product Management, Software Engineering",
+    "bio": "I'm Willie - a USC senior studying CS & biz. I'm passionate about building great digital products. I've worked at McKinsey, Salesforce, and Coinbase (where I'll work FT as a SWE!) I work across the stack, and have interests in crypto/blockchain, UI/UX, product dev, growth strategies, and more.",
+    "token": "g3mlmp8pbtkdfvtbea3jg3ml1a50lmco"
+  },
+  {
     "name": "Jake Chasan",
     "school": "Duke University",
     "year": 2020,
@@ -238,6 +310,14 @@
     "tags": "VC / Investing, Entrepreneurship, Non-Technical",
     "bio": "Clare is a biz dev analyst at a growth equity firm in DC that solely invests in B2B software. Before that, she was working on her own venture in the fundraising ed-tech space, teaching yoga, and traveling the world (Croatia+Sweden). She's happy to connect about anything and everything!",
     "token": "fxzyv4oxyowaup9apien8xpfxzy2iqey"
+  },
+  {
+    "name": "Emily Ng",
+    "school": "Tufts University",
+    "year": 2019,
+    "tags": "Non-Technical, UI / UX Design",
+    "bio": "I'm a UX Researcher at Squarespace in NYC. Happy to chat about going from a social sciences/humanities major -> tech, and all things UX research (day-to-day work, internship opportunities, applications, etc)",
+    "token": "22scmk9qs1pndv22scvrma192bf2nivb"
   },
   {
     "name": "Preet Shah",
@@ -288,6 +368,14 @@
     "token": "sysvx43ckf8m6asmo3sysvxf0kwpn90a"
   },
   {
+    "name": "Stormy Jackson",
+    "school": "University of Southern California",
+    "year": 2020,
+    "tags": "UI / UX Design",
+    "bio": "I'm an incoming product design intern at Lyft. I can help with portfolio reviews and interview tips.",
+    "token": "iqx2ggrnziybargsgciqx2ggr1w37e32"
+  },
+  {
     "name": "Shyam Mani",
     "school": "Northwestern University",
     "year": 2021,
@@ -310,6 +398,14 @@
     "tags": "Non-Technical",
     "bio": "Incoming Leadership Acceleration Program Associate at Highmark Health. I am passionate about talent management, future of work, and helping students discover their professional \"why\"! Happy to coach students in professional branding, LinkedIn and resume optimization, and internship searching.",
     "token": "u2im4pp2izism0rt3tu2im4pg55r509s"
+  },
+  {
+    "name": "Ekta Shahani",
+    "school": "UC Santa Barbara",
+    "year": 2020,
+    "tags": "Software Engineering, Product Management",
+    "bio": "Hi! I'm an incoming APM @ Google and a recent grad from UCSB where I studied CS. \nI've had SWE and PM internships and can help with the path from SWE to PM, job hunting/interview strategies, and general career guidance!",
+    "token": "obtfoz26w2rao6h9qhb3qobtfoz2l9d2"
   },
   {
     "name": "Sachit Bhat",
@@ -344,12 +440,12 @@
     "token": "g9kk6tkpjetjsocag9kkknhfey9i3jzq"
   },
   {
-    "name": "Austin Lam",
-    "school": "University of Southern California",
-    "year": 2017,
-    "tags": "Non-Technical",
-    "bio": "Strategy consultant at Boston Consulting Group in Los Angeles with case experience in Technology (Hardware / Software) & Renewable Energy. Prior to joining BCG, advised private equity houses on their M&A transactions with PwC's NYC Deals practice.",
-    "token": "frbteg0k2wygi1mqz8zfrbtig7rqtw49"
+    "name": "Sophia Richards",
+    "school": "Pomona College",
+    "year": 2020,
+    "tags": "Software Engineering, Product Management",
+    "bio": "I'm graduating as a Computer Science and Mathematics major and will be working at Google as an Associate Product Manager. I've interned for both Google and i.am+ in software engineer and product management roles. Reach out to me for career advice, interview tips/prep, or anything else tech-related!",
+    "token": "isi14f3oyjat4cdgisip5otnj222elwy"
   },
   {
     "name": "Veshal Arul Prakash",
@@ -398,14 +494,6 @@
     "tags": "Software Engineering",
     "bio": "Hello, my name is Sulaiman and it is a pleasure to meet you!\nI am a recent CS grad from UCF.  My background includes both frontend and backend. I mostly work with the MERN stack, however, I also work on Java services. I currently work at NextEra Energy as a software engineer.",
     "token": "io4j9gvohzcbdd12fj8z6io4j91n5azj"
-  },
-  {
-    "name": "Jeremy Yau",
-    "school": "University of Washington",
-    "year": 2019,
-    "tags": "Software Engineering",
-    "bio": "I'm a recent graduate from the University of Washington. I studied Statistics in college, but now work as a Software Engineer at Amazon. I work on an internal distributed database team that underpins many core Amazon services. I am looking forward to helping students with achieve their goals!",
-    "token": "lu8kfxpagbm1lhskr6rtlu8k556fpbuf"
   },
   {
     "name": "Praveen Kumar Bhardwaj",
